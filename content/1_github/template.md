@@ -65,7 +65,7 @@ It is further essential that you adapt the README and LICENSE files to your need
 
 To actually display the purpose and, e.g., acknowledgments of your course, you'll have to adapt the `README.md` file on your public repo. In the template, this looks like this:
 
-![depicting the README](../../static/readme.png)
+![depicting the README](../../static/readme2.png)
 
 and translates to this view at the bottom of your public remote repo:
 
