@@ -47,7 +47,7 @@ Let's kick things off by diving into the `_config.yml` file! Here, you'll update
 
 3. Replace the existing information with your course title, your name, affiliation, and any other relevant details. Once you're finished, click "Commit changes...".
 
-![Image of the commit changes button.](../../static/commit_changes.png)
+![Image of the commit changes button.](../../static/commit_changes2.png)
 
 4. For transparency and version control, provide a brief message describing the changes you made.
 
