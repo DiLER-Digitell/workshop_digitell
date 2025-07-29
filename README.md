@@ -6,7 +6,7 @@ This repository contains a tutorial on how to create interactive content with Ju
 
 [DiLER](https://diler-digitell.github.io/examples.html) (Digital Literacy for Empirical Research) aims to provide open and free educational resources to promote key digital skills for working in empirical sciences.
 
-Find the course here: https://diler-digitell.github.io/tutorial_jupyter_books
+Find the course here: !!! https://diler-digitell.github.io/tutorial_jupyter_books
 
 
 ## If you got questions:
